@@ -2,7 +2,7 @@
 Aspiring programmer, currently working on a few small projects in my spare time. Usually to do with web scraping or music.
 
 ## Languages:
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,discord)](https://skillicons.dev)
 
 ## Main Projects:
 (I'm working on new versions of both of these, which I hope to have done soon.)
